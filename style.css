@@ -1,0 +1,26 @@
+.container{
+    font-size: 1.4rem;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    height: 100px;
+    width: auto;
+    margin-top: 50px;
+} 
+ul{
+    list-style: none;
+    margin-top: 0;
+}
+h3{
+    padding: 0;
+    margin: 0;
+}
+.features{
+margin-bottom: 30px;
+}
+ .use-keyboard-input {
+width: 50%;
+margin: 0 auto;
+padding-top: 30px;
+resize: none;
+font-size: 1.4rem;
+}
