@@ -6,8 +6,6 @@ First of all, an object called Keyboard was created with its attributes.
 ![image](https://github.com/leonardopiller/virtual-keyboard/assets/121625024/89c6f63b-cd07-46b9-a620-2c43c6ff2e08)
 
 
-Then, methods were created in Keyboard.
-
 Then, methods were created within the Keyboard object. The _createKeys() method is a private method that generates the keys for the virtual keyboard. For special keys like backspace, caps, done, and space, a Google API was linked in the HTML code.
 
 
@@ -36,4 +34,3 @@ Finally, init( ) is called when the DOM is loaded
 
 ![image](https://github.com/leonardopiller/virtual-keyboard/assets/121625024/3e4b97b9-a8da-478c-8a1e-a0e4568bdb70)
 
-All JS Code can be checked in keyboard/
